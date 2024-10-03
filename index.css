@@ -157,6 +157,8 @@
 			margin-right:auto;
 			padding:5px;
 			border-right: 5px solid black;
+			align-content: center;
+      		       	justify-content: center;
 
 
 			a{
