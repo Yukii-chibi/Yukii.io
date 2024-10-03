@@ -106,6 +106,48 @@
 
         }
 
+@media only screen and (max-width: 414px){
+
+		.logo{
+			margin-top:10px;
+		}
+
+		.Nav{
+
+			width:100%;
+			display:flex;
+			flex-wrap:wrap;
+			height: 80 px;
+			margin-left:auto;
+			margin-right:auto;
+			padding:5px;
+			border-right: 5px solid rgb(11, 12, 14);
+			align-content: center;
+      		       	justify-content: center;
+
+
+			a{
+				align-content:center;
+				padding:5px;
+				width:45%;
+			}
+			.container{
+				width:100%;
+				display:flex;
+				flex-wrap:column;
+			}
+			
+		}
+
+		.Info{
+
+			width:100%;
+			padding:30px;
+
+			
+			
+		}
+
 
 
         
