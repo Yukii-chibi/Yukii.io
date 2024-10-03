@@ -47,7 +47,7 @@
             width: 26%;
             border-right: 5px solid #d9e4ca;
             padding: 10px;
-		float:center;
+		
             
 
             a{
@@ -125,6 +125,7 @@
 			border-right: 5px solid rgb(11, 12, 14);
 			align-content: center;
       		       	justify-content: center;
+			float:center;
 
 
 			a{
