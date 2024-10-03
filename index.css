@@ -152,7 +152,7 @@
 			width:100%;
 			display:flex;
 			flex-wrap:wrap;
-			height: 50 px;
+			height: 80 px;
 			margin-left:auto;
 			margin-right:auto;
 			padding:5px;
@@ -164,7 +164,7 @@
 			a{
 				align-content:center;
 				padding:5px;
-				width:50%;
+				width:45%;
 			}
 			.container{
 				width:100%;
